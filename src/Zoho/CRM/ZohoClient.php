@@ -55,7 +55,7 @@ class ZohoClient
      *
      * @var string
      */
-    const TOKEN_URI = 'https://accounts.zoho.com/oauth/v2/token';
+    const TOKEN_URI = 'https://accounts.zoho.eu/oauth/v2/token';
 
     /**
      * Grant Type.
